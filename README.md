@@ -59,4 +59,4 @@ This policy is effective as of **2025-08-16**.
 ## Contact Us  
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at:  
-**scratchgolfapp@gmail.com**  
+**scratchgolfleaderboard@gmail.com**  
